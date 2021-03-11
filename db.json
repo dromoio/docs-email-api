@@ -1,0 +1,14 @@
+{
+  "leads": [
+    {
+      "id": 1,
+      "email": "ksleaford5@rediff.com",
+      "body": "email example 1"
+    },
+    {
+      "id": 2,
+      "email": "lkaremanp@nba.com",
+      "body": "email example 2"
+    }
+  ]
+}
